@@ -991,4 +991,5 @@ TRANSLATIONS = {
     "http/exposed-panels/zte-panel.yaml": "wykryto panel systemu ZTE.",
     "NETGEAR router panel was detected.": "wykryto panel routera Netgear.",
     "Samsung printer panel was detected.": "wykryto panel drukarki Samsung.",
+    "Transmission dashboard was detected.": "wykryto panel narzędzia Transmission."
 }
